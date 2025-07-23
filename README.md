@@ -1,5 +1,11 @@
 # URL Shortener Service
 
+**A simple in‑memory Flask API + Streamlit frontend**  
+– Shorten any valid URL to a 6‑character code  
+– Redirect to the original URL, tracking click counts  
+– View analytics (clicks, timestamp)  
+– Thread‑safe, tested with pytest 
+
 ## 📝 Implementation Notes
 
 - **Backend (Flask API)**  
