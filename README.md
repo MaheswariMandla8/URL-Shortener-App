@@ -7,7 +7,6 @@
 – Thread‑safe, tested with pytest 
 
 ### Frontend Demo
-
 ![Shorten a URL](images/imga.png)
 ![Test Redirect](images/imgb.png)
 ![Get Analytics](images/imgc.png)
