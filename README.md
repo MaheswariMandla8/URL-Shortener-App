@@ -48,14 +48,10 @@
 
   3. Launch frontend:  
      streamlit run url_shortener_frontend.py
-    
-  4. To launch both at a time (frontend and API)
-      python run_all.py
-    
+     
   4. Run tests:  
-     ```bash
      pytest -q
-     ```
+     
 
 - **Future Improvements**  
   - Swap in a persistent database (SQLite, PostgreSQL)  
