@@ -55,6 +55,4 @@
 
 - **Future Improvements**  
   - Swap in a persistent database (SQLite, PostgreSQL)  
-  - Add stress/concurrency tests  
-  - Containerize (Docker) and set up CI/CD
- 
+
